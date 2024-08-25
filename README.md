@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 💬 Ask me about **HTMl ,CSS , JAVASCRIPT.**
+- 💬 Ask me about **HTMl ,CSS , JAVASCRIPT  ,ASP.NET MVC ,C# ,PHP.**
 
 - 📫 How to reach me **divyanshujangid307@gmail.com**
 
