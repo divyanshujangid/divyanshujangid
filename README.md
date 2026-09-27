@@ -45,7 +45,6 @@ Right now I'm going deeper into **agentic workflows**, **LLM tooling** and **pro
 | Project | What it does | Stack |
 |---|---|---|
 | **AI Cart Recovery Automation** | An event-driven abandoned-cart workflow. It validates cart data, applies conditional discounts and writes personalised recovery messages with Gemini. It then reaches the customer by email, WhatsApp and AI voice call. | n8n · Gemini · WhatsApp API · VAPI · Google Sheets |
-| [**Slack Expense Tracker Bot**](https://github.com/divyanshujangid/slack-expense-tracker-bot) | Logs expenses from a Slack message into Google Sheets and uploads invoices to Google Drive. | Python · Flask · Google APIs |
 | [**Photographer Portfolio**](https://github.com/divyanshujangid/creative-photographer) · [live](https://www.photuwalebhaiyaan.in/) | A fast, accessible portfolio with a keyboard-navigable filmstrip gallery and lazy-loaded responsive images. | React · TypeScript · Tailwind |
 | [**QR Ordering System**](https://github.com/divyanshujangid/qr-ordering-system) | Lets café customers scan a QR code at the table and order. | Vue.js |
 | [**Inventory Management System**](https://github.com/divyanshujangid/InventoryManagementSystem) | Stock tracking with role-based access, built during my Welspun internship. It made stock handling about 20% more efficient. | ASP.NET MVC · C# · SQL Server |
