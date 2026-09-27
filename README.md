@@ -1,33 +1,69 @@
-<img src="https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133">
-<h1 align="center">Hi 👋 I'm Divyanshu Jangid</h1>
-<h3 align="center">I am a BCA Student. I Like to spend my time making things for the web and share tips and tricks with everyone.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshujangid&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshujangid" /> </p>
+<h1 align="center">Divyanshu Jangid</h1>
 
-<p align="left"> <a href="https://twitter.com/divyanshu307" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshu307?logo=twitter&style=for-the-badge" alt="divyanshu307" /></a> </p>
-
-- 🔭 I’m currently working on **Epic Web**
-
-- 🌱 I’m currently learning **Machine Learning.**
-
-- 💬 Ask me about **HTMl ,CSS , JAVASCRIPT  ,ASP.NET MVC ,C# ,PHP.**
-
-- 📫 How to reach me **divyanshujangid307@gmail.com**
-
-- ⚡ Fun fact **I am Funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/divyanshu307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyanshu307" height="30" width="40" /></a>
-<a href="https://fb.com/divyanshu_jangid7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyanshu_jangid7" height="30" width="40" /></a>
-<a href="https://instagram.com/divyanshu_jangid7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyanshu_jangid7" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Developer · AI Automation & Agentic Workflows</b><br/>
+  Adipur, Gujarat, India
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyanshu-jangid-8b3350270"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+  <a href="mailto:divyanshujangid307@gmail.com"><img src="https://img.shields.io/badge/Email-divyanshujangid307%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=divyanshujangid&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshujangid&show_icons=true&locale=en&layout=compact" alt="divyanshujangid" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshujangid&show_icons=true&locale=en" alt="divyanshujangid" /></p>
+### About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshujangid&" alt="divyanshujangid" /></p>
+I'm a software developer at **ToDo IT Services**. I build AI automation for production workflows and ship frontend features to a high-traffic SaaS CRM.
+
+- **Automated a client's delivery pipeline end to end.** Built with Claude Code, OpenAI APIs and n8n, it covers ticket triage, bug root-cause analysis, the fix, code review and the pull request. It saves the team **3–4 hours a day**.
+- **Built an automated Expense Management System.** It processes about 200 entries a month and eliminates **~50 staff-hours** of manual entry every month.
+- **Ship Vue.js features to a production SaaS CRM.** My work covers onboarding, subscription purchase and core daily-use screens, and **~90% of my PRs are approved with no changes requested**.
+- **Built a wedding-invitation template** for [Einvite](https://einvite.website), used by **300+** people.
+
+Right now I'm going deeper into **agentic workflows**, **LLM tooling** and **production-grade automation**.
+
+---
+
+### Tech stack
+
+**AI & Automation**<br/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/OpenAI%20APIs-412991?style=flat-square" alt="OpenAI APIs"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-333333?style=flat-square" alt="Prompt Engineering"/>
+
+**Languages, frameworks & tools**<br/>
+<img src="https://skillicons.dev/icons?i=vue,js,ts,react,html,css,bootstrap,tailwind,php,cs,dotnet,python,flask,django,mysql,docker,git,linux&perline=9" alt="Tech stack"/>
+
+---
+
+### Featured work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **AI Cart Recovery Automation** | An event-driven abandoned-cart workflow. It validates cart data, applies conditional discounts and writes personalised recovery messages with Gemini. It then reaches the customer by email, WhatsApp and AI voice call. | n8n · Gemini · WhatsApp API · VAPI · Google Sheets |
+| [**Slack Expense Tracker Bot**](https://github.com/divyanshujangid/slack-expense-tracker-bot) | Logs expenses from a Slack message into Google Sheets and uploads invoices to Google Drive. | Python · Flask · Google APIs |
+| [**Photographer Portfolio**](https://github.com/divyanshujangid/creative-photographer) · [live](https://www.photuwalebhaiyaan.in/) | A fast, accessible portfolio with a keyboard-navigable filmstrip gallery and lazy-loaded responsive images. | React · TypeScript · Tailwind |
+| [**QR Ordering System**](https://github.com/divyanshujangid/qr-ordering-system) | Lets café customers scan a QR code at the table and order. | Vue.js |
+| [**Inventory Management System**](https://github.com/divyanshujangid/InventoryManagementSystem) | Stock tracking with role-based access, built during my Welspun internship. It made stock handling about 20% more efficient. | ASP.NET MVC · C# · SQL Server |
+| [**Razorpay × Django**](https://github.com/divyanshujangid/payment_integration_django) | A Razorpay payment integration in a Django app. | Python · Django |
+
+---
+
+### Experience
+
+- **Software Developer**, ToDo IT Services · *Nov 2024 – Present*
+- **Software Developer Intern**, Welspun India Limited · *May 2024 – Oct 2024*
+
+### Education & certifications
+
+- **Bachelor of Computer Applications (BCA)**, SRK Institute of Management and Computer Education · *2022 – 2025*
+- **Anthropic**: Claude Code in Action
+- **Great Learning**: AI Fundamentals · Front-End Development · Python Fundamentals · .NET Fundamentals
+
+---
+
+<p align="center"><i>Open to conversations about AI automation, agentic workflows and full-stack product work.</i></p>
